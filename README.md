@@ -1,3 +1,2 @@
 # capstoneProject
-
-ASD Project completed May 9, 2024.
+This repository contains all project files associated with our whistleblower project completed during the spring semester of 2024 for an Advanced Software Development course at University of Virginia. The intent of this project was to provide a website for housing reporting issues both on and off grounds at UVA. Other team members included in this project were Kevin Lam, Tenzin Nargee, Steven Li, and Rui Zhang. All contributions to the project can be seen through our commit history. Due to required closing of repositories, our S3 storage along with Postgres database had to be removed May 10, 2024. 
